@@ -1,0 +1,79 @@
+#mainhead {
+    color: red;
+    background-color: black;
+}
+
+#rishead {
+    color: greenyellow;
+    background-color: azure;
+}
+
+#spaghead {
+    color: orangered;
+    background-color: yellow;
+}
+
+#machead {
+    color: yellow;
+}
+
+#mainhead, #rishead, #spaghead, #machead {
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    background-color: navy;
+    font-size: 28px;
+    text-align: center;
+}
+
+ul {
+    background-color: grey;
+}
+
+.ingredlist {
+    color: white;
+    background-color: blue;
+}
+
+.stepslist {
+    color:aqua;
+    background-color: rgb(27, 27, 197);
+}
+
+
+.ris {
+    color: greenyellow;
+}
+
+.spag {
+    color: orangered;
+}
+
+.mac {
+    color: yellow;
+}
+
+.ris, .spag, .mac {
+    font-size: 24px;
+    font-weight: 100;
+}
+
+p {
+    background-color: aqua;
+    color: black;
+}
+
+.returnlink {
+    color: orange;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+* {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
